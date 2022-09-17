@@ -90,14 +90,9 @@ public class Main {
         System.out.println("c is: " + c );
         System.out.println("d is: " + d );
 
-
-
-
-
-
-
-
-
+        int i =4, j =3;
+        float result;
+        System.out.println((float) i/j);
 
     }
 }
